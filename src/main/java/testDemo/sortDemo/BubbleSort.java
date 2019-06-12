@@ -1,6 +1,6 @@
 package testDemo.sortDemo;
 
-public class bubbleSort {
+public class BubbleSort {
 
     public static void main(String[] args) {
         int[] arr = {1,5,1,4,67,8,2,234,56};
